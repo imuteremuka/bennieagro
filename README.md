@@ -6,4 +6,4 @@ Static website for BennieAgro Farming Solutions (Namibia & Zimbabwe), hosted on 
 - `about.html`, `services.html`, `training.html`, `climate.html`, `ask.html`, `contact.html`
 - `assets/` – shared styles, script and images
 
-To update: edit the files and commit to `main`; GitHub Pages republishes automatically.
+To update: edit the files and commit to the `devops` branch; GitHub Pages republishes automatically.
